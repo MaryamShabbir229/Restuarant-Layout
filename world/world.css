@@ -43,3 +43,7 @@ p{
     color: white;
     text-decoration: none;
 }
+.link:visited{
+    color: white;
+    text-decoration: none;
+}
