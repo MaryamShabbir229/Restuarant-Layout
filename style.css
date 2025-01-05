@@ -1,0 +1,66 @@
+.style{
+    font-size: 50px;
+    text-align: center;
+    background-color: cyan;
+}
+.header{
+    text-align: center;
+    color: white;
+    background-color: rgb(17, 17, 54);
+
+}
+.header1{
+    font-size: 50px;
+}
+.header2{
+    width: 100%;
+    font-size: 30px;
+    background-color: rgb(2, 2, 105);
+    height: 8vh;
+}
+.header3{
+    background-color: rgb(4, 151, 209)
+}
+.style1{
+
+}
+.style1{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: rgb(2,2,105);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+    
+}
+.style2{
+    width: 70%;
+    height: 17vh;
+}
+.style3{
+    font-size: 25px;
+    font-weight: bold;
+}
+.decoration{
+    text-decoration: line-through;
+    
+}
+.decoration1{
+    text-decoration: underline;
+}
+.hover:hover{
+    background-color: rgb(4, 151, 209) ;
+}
+.style1:hover{
+    background-color: rgb(4, 151, 209);
+}
+.link:link{
+    color: white;
+    text-decoration: none;
+}
+.link:visited{
+    color: white;
+    text-decoration: none;
+}
